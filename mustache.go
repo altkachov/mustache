@@ -517,6 +517,12 @@ Outer:
 					return ret, nil
 				}
 				continue Outer
+			case reflect.Slice:
+				idx, err := strconv.ParseInt(name, 10, 64)
+				if err != nil {
+					continue Outer
+				}
+				return av.Index(int(idx)), nil
 			case reflect.Map:
 				ret := av.MapIndex(reflect.ValueOf(name))
 				if ret.IsValid() {
