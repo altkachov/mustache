@@ -1,11 +1,11 @@
 # Mustache Template Engine for Go
 
-[![Build Status](https://img.shields.io/travis/cbroglie/mustache.svg)](https://travis-ci.org/cbroglie/mustache)
-[![Go Doc](https://godoc.org/github.com/cbroglie/mustache?status.svg)](https://godoc.org/github.com/cbroglie/mustache)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cbroglie/mustache)](https://goreportcard.com/report/github.com/cbroglie/mustache)
-[![codecov](https://codecov.io/gh/cbroglie/mustache/branch/master/graph/badge.svg)](https://codecov.io/gh/cbroglie/mustache)
-[![Downloads](https://img.shields.io/github/downloads/cbroglie/mustache/latest/total.svg)](https://github.com/cbroglie/mustache/releases)
-[![Latest release](https://img.shields.io/github/release/cbroglie/mustache.svg)](https://github.com/cbroglie/mustache/releases)
+[![Build Status](https://img.shields.io/travis/altkachov/mustache.svg)](https://travis-ci.org/altkachov/mustache)
+[![Go Doc](https://godoc.org/github.com/altkachov/mustache?status.svg)](https://godoc.org/github.com/altkachov/mustache)
+[![Go Report Card](https://goreportcard.com/badge/github.com/altkachov/mustache)](https://goreportcard.com/report/github.com/altkachov/mustache)
+[![codecov](https://codecov.io/gh/altkachov/mustache/branch/master/graph/badge.svg)](https://codecov.io/gh/altkachov/mustache)
+[![Downloads](https://img.shields.io/github/downloads/altkachov/mustache/latest/total.svg)](https://github.com/altkachov/mustache/releases)
+[![Latest release](https://img.shields.io/github/release/altkachov/mustache.svg)](https://github.com/altkachov/mustache/releases)
 
 
 <img src="./images/logo.jpeg" alt="logo" width="100"/>
