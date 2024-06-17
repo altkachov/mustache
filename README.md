@@ -64,7 +64,7 @@ Also check out some [example mustache files](http://github.com/mustache/mustache
 
 ## Installation
 
-To install the CLI, run `go install github.com/cbroglie/mustache/cmd/mustache@latest`. To use it in a program, run `go get github.com/cbroglie/mustache` and use `import "github.com/cbroglie/mustache"`.
+To install the CLI, run `go install github.com/altkachov/mustache/cmd/mustache@latest`. To use it in a program, run `go get github.com/altkachov/mustache` and use `import "github.com/altkachov/mustache"`.
 
 ----
 
